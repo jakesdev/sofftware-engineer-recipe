@@ -1,3 +1,46 @@
+# 📖 Software Engineer Recipe - Bí kiếp võ công :V 📖
+
+## 👨‍💻 Im Viet Thuan, Software Developer living in Da Nang city
+
+### 📜 Here is a place I giving code example for Design Pattern, OOP,... with typescript
+
+### 🔧 For Object Oriented Programming Example:
+  + #### Encapsulation: `npm run encapsulation`
+  + #### Polymorphism: `npm run encapsulation`
+  + #### Inheritance: `npm run inheritance`
+  + #### Abstraction: `npm run abstraction`
+
+### 🔧 For Design Pattern Example:
+  +  ### Creational Design Pattern
+    -
+    -
+    -
+    -
+    -
+   + ### Structural Design Pattern
+    -
+    -
+    -
+    -
+    -
+   +  ### Behavior Design Pattern
+    -
+    -
+    -
+    -
+    -
+
+
+## Reference:
++ https://refactoring.guru/
++ https://anonystick.com/
++ https://www.tutorialspoint.com
+
+
+
+
+
+
 # 🧰 Simple TypeScript Starter | 2022
 
 > We talk about a lot of **advanced Node.js and TypeScript** concepts on [the blog](https://khalilstemmler.com), particularly focused around Domain-Driven Design and large-scale enterprise application patterns. However, I received a few emails from readers that were interested in seeing what a basic TypeScript starter project looks like. So I've put together just that.
